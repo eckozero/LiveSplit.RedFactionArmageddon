@@ -31,10 +31,10 @@ Save your layout.
 
 Configure
 ---------
-If you want real time you can leave the splits running as "Real Time". If you want this to remove load times, right-click your LiveSplit instance and choose "Compare Against --> Game Time"
+If you want real time you can leave the splits running as "Real Time". If you want to remove load times, right-click your LiveSplit instance and choose "Compare Against --> Game Time"
 
 #### Auto Split
-The default settings are to automatically start and end the splits (the first and last splits).
+The default settings are to automatically start and end the splits, but not reset (splits need to be manually reset when restarting).
 
 Change Log
 ----------
